@@ -1,4 +1,4 @@
-# 🛡️ Automated Ad Compliance Engine (SaaS Core)
+# 🛡️ Reklam Denetim Otomasyon Sistemi
 
 **Dijital reklam denetim süreçlerini otomatize eden, ölçeklenebilir ve yapay zeka destekli bir SaaS altyapısı.**
 
